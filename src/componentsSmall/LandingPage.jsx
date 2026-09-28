@@ -1,7 +1,7 @@
 import React from "react";
 import { MdFileDownload } from "react-icons/md";
 import { IoIosArrowForward } from "react-icons/io";
-import CV from "../assets/KljecaninUrosCV.pdf";
+import CV from "../assets/UrosKljecanin.pdf";
 import profilePic from "../assets/profilePic.png";
 
 function LandingPage() {
